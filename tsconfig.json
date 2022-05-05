@@ -1,8 +1,7 @@
 {
   "compilerOptions": {
-    "target": "es2016",   
-    "outDir": "./src/assets/ts/compiled/",                          
-    "module": "commonjs",                          
+    "target": "ES6",   
+    "outDir": "./src/assets/ts/compiled/",                                                 
     "esModuleInterop": true,                            
     "forceConsistentCasingInFileNames": true,                                         
     "skipLibCheck": true                                 
